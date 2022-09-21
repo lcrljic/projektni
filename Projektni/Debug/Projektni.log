@@ -1,7 +1,0 @@
-﻿  functions.c
-  izbornik.c
-  main.c
-  Generating Code...
-C:\Users\student\source\repos\Projektni\functions.c(128,9): warning C4033: 'pretraziClanove' must return a value
-C:\Users\student\source\repos\Projektni\functions.c(150): warning C4715: 'pretraziClanove': not all control paths return a value
-  Projektni.vcxproj -> C:\Users\student\source\repos\Projektni\Debug\Projektni.exe
